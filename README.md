@@ -1,2 +1,2 @@
 # Resume
-This repository describes me
+This repository contains the details about me.
